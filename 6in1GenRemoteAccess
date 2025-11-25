@@ -623,5 +623,12 @@
         "postLink": "https://api.github.com/repos/Ansumanvip/6in1JsonFixBuild/contents/ansumanv2ray.json",
         "getLink": "https://api.github.com/repos/Ansumanvip/6in1JsonFixBuild/contents/ansumanv2ray.json",
         "noticeLink": "https://ansumanvip.xyz/api/app?json=92c72f81c03c3e7af34d"
+    },
+    "com.fixbuildcore.vpngen.rajonv2ray": {
+        "isDestroy": false,
+        "configLink": "https://raw.githubusercontent.com/rajonvipbdt/6in1JsonFixBuild/refs/heads/main/rajonv2ray.json",
+        "postLink": "https://api.github.com/repos/rajonvipbdt/6in1JsonFixBuild/contents/rajonv2ray.json",
+        "getLink": "https://api.github.com/repos/rajonvipbdt/6in1JsonFixBuild/contents/rajonv2ray.json",
+        "noticeLink": "https://rajonvip.top/uploads/json/87802394467b35679300.json"
     }
 }
